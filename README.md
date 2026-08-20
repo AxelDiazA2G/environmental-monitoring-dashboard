@@ -12,8 +12,8 @@ Raspberry Pi sensor logger → Flask API → React dashboard
 
 Related repositories:
 
-- [Raspberry Pi sensor logger](https://github.com/AxelDiazA2G/enviromental-raspberryPi)
-- [Flask telemetry API](https://github.com/AxelDiazA2G/env-server)
+- [Raspberry Pi sensor logger](https://github.com/AxelDiazA2G/environmental-monitoring-raspberry-pi)
+- [Flask telemetry API](https://github.com/AxelDiazA2G/environmental-monitoring-api)
 
 ## What it demonstrates
 
